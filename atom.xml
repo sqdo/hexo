@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dophoto.eu.org/"/>
-  <updated>2018-05-16T01:13:38.388Z</updated>
+  <updated>2018-06-16T23:40:12.042Z</updated>
   <id>https://dophoto.eu.org/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New Steak</title>
+    <link href="https://dophoto.eu.org/2018/06/16/New%20Steak/"/>
+    <id>https://dophoto.eu.org/2018/06/16/New Steak/</id>
+    <published>2018-06-17T03:30:00.000Z</published>
+    <updated>2018-06-16T23:40:12.042Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://dophoto.eu.org/p/33736378.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://dophoto.eu.org/p/33736378.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="美食料理" scheme="https://dophoto.eu.org/categories/%E7%BE%8E%E9%A3%9F%E6%96%99%E7%90%86/"/>
+    
+    
+      <category term="肉" scheme="https://dophoto.eu.org/tags/%E8%82%89/"/>
+    
+  </entry>
   
   <entry>
     <title>新食堂</title>
@@ -468,30 +494,6 @@
     </summary>
     
       <category term="美食料理" scheme="https://dophoto.eu.org/categories/%E7%BE%8E%E9%A3%9F%E6%96%99%E7%90%86/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>抓住桜的尾巴</title>
-    <link href="https://dophoto.eu.org/2017/04/14/%E6%8A%93%E4%BD%8F%E6%A1%9C%E7%9A%84%E5%B0%BE%E5%B7%B4/"/>
-    <id>https://dophoto.eu.org/2017/04/14/抓住桜的尾巴/</id>
-    <published>2017-04-14T23:30:00.000Z</published>
-    <updated>2017-04-14T08:23:14.111Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://dophoto.eu.org/p/G003684ss.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;https://dophoto.eu.org/p/G003684ss.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="生活记录" scheme="https://dophoto.eu.org/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
     
     
   </entry>
